@@ -56,4 +56,5 @@ Given an input file test1.obj, the program will generate an output file named te
 The output 'obj_struct.txt' will contain the disassembled object code with columns for Instruction, Format, Operand Addressing Type, Target Address Addressing Mode, and Object Code.
 
 #### test1_struct.txt:
-![image](https://github.com/subomb/SICXE-Disassembler/assets/119646112/a2f361ab-1802-4be8-945f-6509676e4ace)
+![image](https://github.com/subomb/SICXE-Disassembler/assets/119646112/8380ba72-c18b-4754-8508-5303abccda98)
+
